@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GestionSolaireYann</string>
+    <string name="str_prenom">Prénom</string>
+    <string name="str_txt_prenom">Prénom</string>
+    <string name="str_nom">Nom</string>
+    <string name="str_adress">Adresse</string>
+    <string name="str_envoyer">Envoyer</string>
+    <string name="str_retour">Retour</string>
+    <string name="str_quitter">Quitter</string>
+    <string name="str_ajouter">Ajouter</string>
+</resources>
